@@ -20,7 +20,7 @@ weight = 3
 	position = "Principal investigator"
 	image = "tobias_gerstenberg.jpg"
 	email = "greb@uni-heidelberg.de"
-	twitter = "Grebgroup"
+	twitter = "@Grebgroup"
 	github = ""
 	scholar = "https://scholar.google.de/citations?user=1u4dHJAAAAAJ&hl=en&oi=ao"
 	cv = "tobias_gerstenberg.pdf"
@@ -28,8 +28,8 @@ weight = 3
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 [[member]]
-	id = "Zach Davis"
-	position = "Postdoctoral researcher"
+	id = "Fabian Ebner"
+	position = "PhD Student"
 	image = "zach_davis.jpg"
 	email = "zach.davis@nyu.edu"
 	scholar = "citations?user=Sz7sucMAAAAJ&hl=en"
@@ -38,8 +38,8 @@ weight = 3
 	description = "I am interested in how people learn complex causal relationships, and how they use that causal knowledge to achieve their goals. I did not like eating durian ice cream."
 
 [[member]]
-	id = "Ari Beller"
-	position = "Graduate student"
+	id = "Deborah Hartmann"
+	position = "PhD Student"
     image = "ari_beller.jpg"
 	email = "aribeller@gmail.com"
 	github = "aribeller"
@@ -48,8 +48,8 @@ weight = 3
 	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
 [[member]]
-	id = "David Rose"
-	position = "Graduate student"
+	id = "Rezisha Maskey"
+	position = "PhD Student"
 	image = "david_rose.jpg"
 	email = "davdrose@stanford.edu"
 	scholar = "citations?user=-hAqrvwAAAAJ&hl=en"
@@ -57,16 +57,16 @@ weight = 3
 	description = "My research is mainly focused on how a teleological view of causation features in our view of composition, persistence and essence.  Here is a picture of me thinking about the essence of pizza and wondering whether nacho pizza is a kind of pizza."
 
 [[member]]
-	id = "Sarah Wu"
-	position = "Graduate student"
+	id = "Yael Gottlieb"
+	position = "PhD Student"
 	image = "sarah_wu.jpg"
 	email = "sarahawu@mit.edu"
 	github = "sarahawu"
 	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 [[member]]
-	id = "Disha Dasgupta"
-	position = "Research assistant"
+	id = "Heiko Ruppert"
+	position = "PhD Student"
 	image = "disha_dasgupta.jpg"
 	email = "disha01@stanford.edu"
 	twitter = "DishaDasgupta"
@@ -77,8 +77,8 @@ weight = 3
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 [[member]]
-	id = "Alan Brown"
-	position = "Research assistant"
+	id = "Thaddäus Thorwart"
+	position = "PhD Student"
 	image = "alan_brown.jpg"
 	email = "alanb@stanford.edu"
 	twitter = "alanbrown4700"
@@ -86,8 +86,8 @@ weight = 3
 	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
 
 [[member]]
-	id = "Tina Hua"
-	position = "Research assistant"
+	id = "Daniel Roth"
+	position = "PhD Student"
 	image = "tina_hua.jpg"
 	email = "teenana95@gmail.com"
 	github = "t6hua"
@@ -95,8 +95,8 @@ weight = 3
 	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
 
 [[member]]
-	id = "Bryce Linford"
-	position = "Research assistant"
+	id = "Lukas Sigmund"
+	position = "PhD Student"
 	image = "bryce_linford.jpg"
 	email = "linford5@stanford.edu"
 	github = "brycelinford"
@@ -104,87 +104,12 @@ weight = 3
 	description = "I am interested in how our reasoning is influenced by our motivations, how aware we are of our reasoning processes, and how we form attributions. I like to reward myself with a glass of vitamin D milk after a week of hard work."
 
 [[member]]
-	id = "Yingchen Xu"
-	position = "Research assistant"
+	id = "Philipp Erdmann"
+	position = "Master Student"
 	image = "yingchen_xu.jpg"
 	email = "yingchenxu20@gmail.com"
 	github = "yukichul"
 	description = "I am interested in understanding human learning and I am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
-
-[[member]]
-	id = "Elisa Kreiss"
-	position = "Lab affiliate"
-	image = "elisa_kreiss.jpg"
-	email = "ekreiss@stanford.edu"
-	twitter = "ElisaKreiss"
-	github = "elisakreiss"
-	#scholar = ""
-	#website = "http://elisakreiss.com/"
-	description = "I’m a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
-
-[[member]]
-	id = "Cai Guo"
-	position = "Lab affiliate"
-	image = "cai_guo.jpg"
-	email = "caiguo@stanford.edu"
-	#twitter = ""
-	github = "caiguostanford"
-	scholar = "citations?user=lk-7P8oAAAAJ&hl=en"
-	website = "http://web.stanford.edu/~caiguo/"
-	cv = "cai_guo.pdf"
-	description = "I'm a third-year PhD student interested in how people understand abstract concepts, such as personal identity and philosophical/literary ideas. In the CiCl lab, I'm working on building computational causal networks of how mental representations of abstract concepts originate from beliefs about small, concrete things."
-
-[[member]]
-	id = "Erin Bennett"
-	position = "Lab affiliate"
-	image = "erin_bennett.jpg"
-	email = "erindb@stanford.edu"
-	#twitter = ""
-	github = "erindb"
-	scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"
-	website = "http://web.stanford.edu/~erindb/"
-	#cv = ""
-	description = "I'm a Psychology PhD student primarily in the [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
-
-[[member]]
-	id = "Andrew Nam"
-	position = "Lab affiliate"
-	image = "andrew_nam.jpg"
-	email = "ajhnam@stanford.edu"
-	#twitter = ""
-	github = "andrewnam"
-	#scholar = ""
-	#website = ""
-	cv = "andrew_nam.pdf"
-	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
-
-[[member]]
-	id = "Max Kanwal"
-	position = "Lab affiliate"
-	image = "max_kanwal.jpg"
-	email = "kanwal@stanford.edu"
-	scholar = "citations?user=o1qFlsgAAAAJ&hl=en&oi=ao"
-	description = "I'm a PhD student focusing on theoretical neuroscience and neuroengineering.  I'm interested in developing foundational theory for neural interfacing.  Consequently, I am broadly interested in topics related to network causal inference.  I'm also always on the lookout for good vegan cheesecake."
-
-[[member]]
-	id = "Xi Jia (Laura) Zhou"
-	position = "Lab affiliate"
-	image = "xi_jia_zhou.jpg"
-	email = "xijiazho@stanford.edu"
-	twitter = "LauraXijiaZhou"
-	github = "lauraxijia"
-	website = "https://xijiazho.people.stanford.edu/"
-	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
-
-[[member]]
-	id = "Liang Zhou"
-	position = "Lab affiliate"
-	image = "liang_zhou.jpg"
-	email = "liang.zhou.18@ucl.ac.uk"
-	github = "lzil"
-	website = "https://lzil.github.io"
-	description = "I study how people learn and use structural knowledge, from both neural and cognitive perspectives. I like to stay hydrated."
-
 
 
 
