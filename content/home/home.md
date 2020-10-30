@@ -10,8 +10,8 @@ weight = 1
 
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
-# [header]
-#  #overlay_color = "#de7f57"  # An HTML color value.
+[header]
+  #overlay_color = "#f2a772"  # An HTML color value.
 #  overlay_img = "headers/dominos.jpg"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
@@ -24,4 +24,4 @@ weight = 1
 +++
 
 <br>
-The Causality in Cognition Lab at Stanford University studies the role of causality in our understanding of the world, and of each other. 
+Here at the Greblab at Heidelberg University we study p-block compounds. 
