@@ -3,7 +3,7 @@
 #widget = "custom"
 widget = "people"
 active = true
-date = "2017-11-18"
+date = "2020-10-30"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 #title = "[People](/member)"
