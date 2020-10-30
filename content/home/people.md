@@ -30,7 +30,7 @@ weight = 3
 [[member]]
 	id = "Fabian Ebner"
 	position = "PhD Student"
-	image = "Fabian_Ebner.jpg"
+	image = "Fabian_Ebner-min.jpg"
 	email = "zach.davis@nyu.edu"
 	scholar = "citations?user=Sz7sucMAAAAJ&hl=en"
 	cv = "zach_davis.pdf"
